@@ -1,0 +1,6 @@
+*.iml
+*.db
+*.log
+.idea
+target
+bin
